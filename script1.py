@@ -1,2 +1,4 @@
 # Prints a line from Zen of Python
-('"Errors should never pass silently."')
+print('"Errors should never pass silently."')
+
+# This is an amazing new featutre.
